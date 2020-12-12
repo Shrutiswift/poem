@@ -1,6 +1,7 @@
 Purple
 Pink
 Orange
+Red
 Yellow
 Green
 
